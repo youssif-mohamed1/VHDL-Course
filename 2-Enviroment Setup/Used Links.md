@@ -2,7 +2,7 @@
 
 [Quartus](https://www.intel.com/content/www/us/en/software-kit/795127/intel-quartus-prime-standard-edition-design-software-version-23-1-for-windows.html)
 
-[GTK Wave]([https://gtkwave.sourceforge.net/](https://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.100-bin-win64/)
+[GTK Wave](https://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.100-bin-win64/)
 
 [GHDL](http://ghdl.free.fr/download.html)
 
