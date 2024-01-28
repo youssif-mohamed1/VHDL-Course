@@ -2,7 +2,7 @@
 
 Welcome to the VHDL Tutorial and CPU Implementation Course repository! 🚀
 
-![VHDL Tutorial and CPU Implementation](https://www.youtube.com/channel/UCo48D4KAHU9xJEzweXbztgg)
+![VHDL Tutorial and CPU Implementation]
 
 This repository serves as a comprehensive resource hub for the YouTube course on VHDL programming and building a 16-bit CPU from scratch. Whether you're a beginner looking to dive into digital design or an experienced engineer aiming to enhance your VHDL skills, this course has something for everyone.
 
